@@ -13,8 +13,8 @@ AiAppMaker は、プログラムを書けない業務の担当者が、自分の
 大事な注意が 3 つあります。
 
 - データについて: この版は最初の公開版です。今後の版では、登録したデータを引き継げない場合があります。大事なデータは、一覧の「CSV・Excel に出力する」で保存しておいてください。
-- 置き場所について: iCloud、OneDrive、Dropbox、Google ドライブなど、同期するフォルダにはアプリを置かないでください。同時に書き換わると、データが壊れることがあります。詳しくは、配布ページ（https://github.com/enishiray/AiAppMaker）の README の「同期するフォルダにはアプリを置かないでください」にあります。
-- はじめて開くとき: macOS と Windows のどちらでも、警告が出ます。この版には開発元の署名が無いためで、AiAppMaker が危険という意味ではありません。開き方は、配布ページ（https://github.com/enishiray/AiAppMaker）の README の「はじめて開くときの警告について」を見てください。
+- 置き場所について: iCloud、OneDrive、Dropbox、Google ドライブなど、同期するフォルダにはアプリを置かないでください。同時に書き換わると、データが壊れることがあります。詳しくは、[配布ページ](https://github.com/enishiray/AiAppMaker)の README の「同期するフォルダにはアプリを置かないでください」にあります。
+- はじめて開くとき: macOS と Windows のどちらでも、警告が出ます。この版には開発元の署名が無いためで、AiAppMaker が危険という意味ではありません。開き方は、[配布ページ](https://github.com/enishiray/AiAppMaker)の README の「はじめて開くときの警告について」を見てください。
 
 ### 加えた機能
 
