@@ -12,11 +12,13 @@ AiAppMaker は、プログラムを書けない業務の担当者が、自分の
 
 https://github.com/enishiray/AiAppMaker/releases/latest
 
+ファイルの名前を押すと、ダウンロードが始まります。
+
 | 対応 | ファイル | 説明 |
 |---|---|---|
-| macOS | `AiAppMaker-0.1.0-macOS.dmg` | ふつうはこちらを使います |
-| macOS | `AiAppMaker-0.1.0-macOS.zip` | dmg が開けないときの予備です。ダブルクリックで開くと出てくる AiAppMaker を、アプリケーションのフォルダへ移します |
-| Windows | `AiAppMaker-0.1.0-Windows.exe` | Windows 用のインストーラーです |
+| macOS | [`AiAppMaker-0.1.0-macOS.dmg`](https://github.com/enishiray/AiAppMaker/releases/download/v0.1.0/AiAppMaker-0.1.0-macOS.dmg) | ふつうはこちらを使います |
+| macOS | [`AiAppMaker-0.1.0-macOS.zip`](https://github.com/enishiray/AiAppMaker/releases/download/v0.1.0/AiAppMaker-0.1.0-macOS.zip) | dmg が開けないときの予備です。ダブルクリックで開くと出てくる AiAppMaker を、アプリケーションのフォルダへ移します |
+| Windows | [`AiAppMaker-0.1.0-Windows.exe`](https://github.com/enishiray/AiAppMaker/releases/download/v0.1.0/AiAppMaker-0.1.0-Windows.exe) | Windows 用のインストーラーです |
 
 ### 対応する OS
 
